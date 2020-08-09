@@ -1,0 +1,202 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="ddd.com" resolutions="1x" timestamp="1442199080916">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_s_d_r.css" crc="278547113" ref="index:nos-produits:télécoms:a-propos:réseaux-d-entreprise:nos-solutions:domotique:energie-rénouvable:nos-partenaires:audiovisuel:sécurités-et-surveillance:nos-références:presentation:contact"/>
+    <file name="index.css" crc="4248656883" ref="index"/>
+    <file name="iefonts_index.css" crc="110194825" ref="index"/>
+    <file name="nos-produits.css" crc="82710828" ref="nos-produits"/>
+    <file name="iefonts_nos-produits.css" crc="110194825" ref="nos-produits"/>
+    <file name="t_l_coms.css" crc="3946868864" ref="télécoms"/>
+    <file name="iefonts_t_l_coms.css" crc="3766311675" ref="télécoms"/>
+    <file name="a-propos.css" crc="3994262231" ref="a-propos"/>
+    <file name="iefonts_a-propos.css" crc="440403939" ref="a-propos"/>
+    <file name="r_seaux-d-entreprise.css" crc="4229468908" ref="réseaux-d-entreprise"/>
+    <file name="iefonts_r_seaux-d-entreprise.css" crc="4226153423" ref="réseaux-d-entreprise"/>
+    <file name="nos-solutions.css" crc="21805812" ref="nos-solutions"/>
+    <file name="iefonts_nos-solutions.css" crc="170714330" ref="nos-solutions"/>
+    <file name="domotique.css" crc="112348849" ref="domotique"/>
+    <file name="iefonts_domotique.css" crc="4236939426" ref="domotique"/>
+    <file name="energie-r_nouvable.css" crc="430231033" ref="energie-rénouvable"/>
+    <file name="iefonts_energie-r_nouvable.css" crc="110194825" ref="energie-rénouvable"/>
+    <file name="nos-partenaires.css" crc="4265985190" ref="nos-partenaires"/>
+    <file name="iefonts_nos-partenaires.css" crc="402330966" ref="nos-partenaires"/>
+    <file name="audiovisuel.css" crc="4085615528" ref="audiovisuel"/>
+    <file name="iefonts_audiovisuel.css" crc="416020000" ref="audiovisuel"/>
+    <file name="s_curit_s-et-surveillance.css" crc="36292365" ref="sécurités-et-surveillance"/>
+    <file name="iefonts_s_curit_s-et-surveillance.css" crc="380284425" ref="sécurités-et-surveillance"/>
+    <file name="nos-r_f_rences.css" crc="3870824227" ref="nos-références"/>
+    <file name="iefonts_nos-r_f_rences.css" crc="423872350" ref="nos-références"/>
+    <file name="presentation.css" crc="3776607286" ref="presentation"/>
+    <file name="iefonts_presentation.css" crc="110194825" ref="presentation"/>
+    <file name="contact.css" crc="311157502" ref="contact"/>
+    <file name="iefonts_contact.css" crc="110194825" ref="contact"/>
+  </folder>
+  <folder name="assets">
+    <folder name="slide3">
+      <folder name="edge_includes">
+        <file name="edge.4.0.0.min.js" crc="4277870922" mt="1442198245000"/>
+        <file name="jquery-2.0.3.min.js" crc="4065232848" mt="1442198245000"/>
+      </folder>
+      <folder name="images">
+        <file name="alert_fume.png" crc="430480938" mt="1442198245000"/>
+        <file name="logo.png" crc="3975232263" mt="1442198245000"/>
+        <file name="pc_interface.png" crc="3912237183" mt="1442198245000"/>
+        <file name="phonr_interface.png" crc="10441816" mt="1442198245000"/>
+        <file name="poster.png" crc="380294227" mt="1442198245000"/>
+        <file name="tablet_interface.png" crc="4207038835" mt="1442198245000"/>
+      </folder>
+      <file name="slide3_edge.js" crc="216120983" mt="1442198245000"/>
+      <file name="slide3_edgeActions.js" crc="243843574" mt="1442198245000"/>
+      <file name="slide3_edgePreload.js" crc="3973937596" mt="1442198245000"/>
+      <file name="slide3.html" crc="506438876" mt="1442198245000"/>
+    </folder>
+    <folder name="slide2">
+      <folder name="edge_includes">
+        <file name="edge.4.0.0.min.js" crc="4277870922" mt="1442196493000"/>
+        <file name="jquery-2.0.3.min.js" crc="4065232848" mt="1442196493000"/>
+      </folder>
+      <folder name="images">
+        <file name="alert_fume.png" crc="430480938" mt="1442196493000"/>
+        <file name="logo.png" crc="3975232263" mt="1442196493000"/>
+        <file name="poster.png" crc="380294227" mt="1442196493000"/>
+      </folder>
+      <file name="slide2_edge.js" crc="4008317216" mt="1442196493000"/>
+      <file name="slide2_edgeActions.js" crc="243843574" mt="1442196493000"/>
+      <file name="slide2_edgePreload.js" crc="168335137" mt="1442196493000"/>
+      <file name="slide2.html" crc="4012844282" mt="1442196493000"/>
+    </folder>
+    <folder name="domotique_slide2">
+      <folder name="edge_includes">
+        <file name="edge.4.0.0.min.js" crc="4277870922" mt="1441995228000"/>
+        <file name="jquery-2.0.3.min.js" crc="4065232848" mt="1441995228000"/>
+      </folder>
+      <folder name="images">
+        <file name="energie2-700x359.png" crc="3969509916" mt="1441995228000"/>
+        <file name="energie2-700x3592.png" crc="3969509916" mt="1441995228000"/>
+        <file name="home_centre_with_phone_tablet.jpg" crc="3954407984" mt="1441995228000"/>
+        <file name="home_centre_with_phone_tablet.png" crc="223613330" mt="1441995228000"/>
+        <file name="icon.png" crc="276767598" mt="1441995228000"/>
+        <file name="logo.png" crc="3975232263" mt="1441995228000"/>
+        <file name="Poster.png" crc="276767598" mt="1441995228000"/>
+      </folder>
+      <file name="domotique_slide2_edge.js" crc="4236974662" mt="1441995228000"/>
+      <file name="domotique_slide2_edgeActions.js" crc="3876178998" mt="1441995228000"/>
+      <file name="domotique_slide2_edgePreload.js" crc="177336513" mt="1441995228000"/>
+      <file name="domotique_slide2.html" crc="96751273" mt="1441995228000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:a-propos:nos-solutions:domotique:nos-partenaires:nos-références:contact:télécoms:réseaux-d-entreprise:audiovisuel:energie-rénouvable:sécurités-et-surveillance:presentation:nos-produits"/>
+    <file name="museutils.js" crc="183364071" ref="index:a-propos:nos-solutions:domotique:nos-partenaires:nos-références:contact:télécoms:réseaux-d-entreprise:audiovisuel:energie-rénouvable:sécurités-et-surveillance:presentation:nos-produits"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:domotique"/>
+    <file name="pie.js" crc="3827607177" ref="index:a-propos:domotique:nos-partenaires"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:a-propos:nos-solutions:domotique:nos-partenaires:nos-références:contact:télécoms:réseaux-d-entreprise:audiovisuel:energie-rénouvable:sécurités-et-surveillance:presentation:nos-produits"/>
+    <file name="webpro.js" crc="3803554875" ref="index:a-propos:domotique:réseaux-d-entreprise:sécurités-et-surveillance"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index:domotique"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index:domotique"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index:domotique"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:a-propos:nos-solutions:domotique:nos-partenaires:nos-références:contact:télécoms:réseaux-d-entreprise:audiovisuel:energie-rénouvable:sécurités-et-surveillance:presentation:nos-produits"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:a-propos:nos-solutions:domotique:nos-partenaires:nos-références:contact:télécoms:réseaux-d-entreprise:audiovisuel:energie-rénouvable:sécurités-et-surveillance:presentation:nos-produits"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="a-propos"/>
+    <file name="musewpdisclosure.js" crc="3993616448" ref="a-propos:réseaux-d-entreprise:sécurités-et-surveillance"/>
+  </folder>
+  <folder name="images">
+    <file name="sdr_logo_website.png" crc="4033576422" seo="true" ref="index:a-propos:nos-solutions:domotique:nos-partenaires:nos-références:contact:télécoms:réseaux-d-entreprise:audiovisuel:energie-rénouvable:sécurités-et-surveillance:presentation:nos-produits"/>
+    <file name="mail_butt-layer 0.png" crc="4245839470" ref="index"/>
+    <file name="mail_butt-layer 0 copy.png" crc="398958888" ref="index"/>
+    <file name="5532-u1812-fr.png" crc="3995515652" ref="index"/>
+    <file name="5532-u1812-r-fr.png" crc="4132229084" ref="index"/>
+    <file name="facebook-u1728-fr.png" crc="3858643757" ref="index"/>
+    <file name="facebook-u1728-r-fr.png" crc="3826449080" ref="index"/>
+    <file name="twitter-u1740-fr.png" crc="4093580429" ref="index"/>
+    <file name="twitter-u1740-r-fr.png" crc="525120470" ref="index"/>
+    <file name="youtube-u1752-fr.png" crc="4200020089" ref="index"/>
+    <file name="youtube-u1752-r-fr.png" crc="66676685" ref="index"/>
+    <file name="google_butt-u1764-fr.png" crc="350323853" ref="index"/>
+    <file name="google_butt-u1764-r-fr.png" crc="4199318544" ref="index"/>
+    <file name="skype-u1776-fr.png" crc="4070316611" ref="index"/>
+    <file name="skype-u1776-r-fr.png" crc="3974990775" ref="index"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="home-u1788-fr.png" crc="3803860968" ref="index"/>
+    <file name="home-u1788-r-fr.png" crc="117389674" ref="index"/>
+    <file name="5532-u1800-fr.png" crc="4221378247" ref="index"/>
+    <file name="5532-u1800-r-fr.png" crc="10872356" ref="index"/>
+    <file name="mail_footer-layer 0 copy.png" crc="342162633" ref="index"/>
+    <file name="mail_footer-layer 0.png" crc="3787535691" ref="index"/>
+    <file name="tshirt_with_logo.jpg" crc="4150220549" seo="true" ref="a-propos"/>
+    <file name="pics_behind_the_text.jpg" crc="95594913" seo="true" ref="a-propos"/>
+    <file name="u951-grad.png" crc="393867788" ref="a-propos"/>
+    <file name="nos_solution-crop-u1041.jpg" crc="17702459" ref="nos-solutions"/>
+    <file name="infrastructure_telecom.jpg" crc="4281927737" seo="true" ref="nos-solutions"/>
+    <file name="reseaux_entreprise.jpg" crc="4092285976" seo="true" ref="nos-solutions"/>
+    <file name="sécurités et surveillance.jpg" crc="413821306" seo="true" ref="nos-solutions"/>
+    <file name="videoconference.jpg" crc="230176254" seo="true" ref="nos-solutions"/>
+    <file name="domotique.jpg" crc="4051413205" seo="true" ref="nos-solutions"/>
+    <file name="slider_point-layer 0 copy 2.png" crc="4204930367" ref="domotique"/>
+    <file name="slider_point-layer 0 copy 3.png" crc="4147369279" ref="domotique"/>
+    <file name="home_domotique_slide.jpg" crc="4050168894" seo="true" ref="domotique"/>
+    <file name="fire_home_slide2.jpg" crc="3872256113" seo="true" ref="domotique"/>
+    <file name="interface_slide.jpg" crc="4022771406" seo="true" ref="domotique"/>
+    <file name="prev-layer 0 copy.png" crc="103258551" ref="domotique"/>
+    <file name="prev-layer 0.png" crc="4254218793" ref="domotique"/>
+    <file name="next-layer 0 copy.png" crc="3801194158" ref="domotique"/>
+    <file name="next-layer 0.png" crc="4293970801" ref="domotique"/>
+    <file name="domotique-illus1_2.jpg" crc="3843052352" seo="true" ref="domotique"/>
+    <file name="smart-home.png" crc="4033160334" seo="true" ref="domotique"/>
+    <file name="yamaha.jpg" crc="413624648" seo="true" ref="nos-partenaires"/>
+    <file name="tooway_logo.png" crc="31841797" seo="true" ref="nos-partenaires"/>
+    <file name="cisco_logo.jpg" crc="192671583" seo="true" ref="nos-partenaires"/>
+    <file name="bosch_logo.jpg" crc="4183103438" seo="true" ref="nos-partenaires"/>
+    <file name="tandberg_logo1.jpg" crc="3974866937" seo="true" ref="nos-partenaires"/>
+    <file name="nec_logo.jpg" crc="4254267713" seo="true" ref="nos-partenaires"/>
+    <file name="sony.jpg" crc="94118888" seo="true" ref="nos-partenaires"/>
+    <file name="polycom_rgb_logo.png" crc="3908414811" seo="true" ref="nos-partenaires"/>
+    <file name="somfy_logo.jpg" crc="4235603598" seo="true" ref="nos-partenaires"/>
+    <file name="hikvision-logo.jpg" crc="273985219" seo="true" ref="nos-partenaires"/>
+    <file name="hp_logo.jpg" crc="353788840" seo="true" ref="nos-partenaires"/>
+    <file name="gkhuqwn.jpg" crc="490680811" seo="true" ref="nos-références"/>
+    <file name="téléchargement.jpg" crc="212373360" seo="true" ref="nos-références"/>
+    <file name="sonarges.gif" crc="4269521077" seo="true" ref="nos-références"/>
+    <file name="879cd669c2458d6064a454d386e75781.jpg" crc="3852578590" seo="true" ref="nos-références"/>
+    <file name="unilever-logo.jpg" crc="435576819" seo="true" ref="nos-références"/>
+    <file name="téléchargement2.jpg" crc="270328300" seo="true" ref="nos-références"/>
+    <file name="téléchargement (1).jpg" crc="108184281" seo="true" ref="nos-références"/>
+    <file name="logo (1)-crop-u1697.png" crc="390053583" ref="nos-références"/>
+    <file name="logo.gif" crc="247374844" seo="true" ref="nos-références"/>
+    <file name="am.jpg" crc="3863737900" seo="true" ref="nos-références"/>
+    <file name="ocp.jpg" crc="3979315751" seo="true" ref="nos-références"/>
+    <file name="zdcc-300x94.jpg" crc="414623399" seo="true" ref="nos-références"/>
+    <file name="onep.jpg" crc="3780569211" seo="true" ref="nos-références"/>
+    <file name="solutions_telecoms-crop-u1117.jpg" crc="4270411125" ref="télécoms"/>
+    <file name="teleco1-crop-u1124.jpg" crc="4028168186" ref="télécoms"/>
+    <file name="teleco2.jpg" crc="507466710" seo="true" ref="télécoms"/>
+    <file name="teleco3-crop-u1149.jpg" crc="114374671" ref="télécoms"/>
+    <file name="solutions_reseauxdentreprise-crop-u1164.jpg" crc="4178613249" ref="réseaux-d-entreprise"/>
+    <file name="reseaudentreprise1-crop-u1171.jpg" crc="3955038670" ref="réseaux-d-entreprise"/>
+    <file name="reseaudentreprise2.jpg" crc="4208274734" seo="true" ref="réseaux-d-entreprise"/>
+    <file name="reseaux_dentreprise.jpg" crc="216973940" seo="true" ref="réseaux-d-entreprise"/>
+    <file name="servermanagement.jpg" crc="324735969" seo="true" ref="réseaux-d-entreprise"/>
+    <file name="audiovisuel-crop-u1447.jpg" crc="413019418" ref="audiovisuel"/>
+    <file name="videoconference3.jpg" crc="3994455880" seo="true" ref="audiovisuel"/>
+    <file name="surveillance-crop-u1413.jpg" crc="4210485976" ref="sécurités-et-surveillance"/>
+    <file name="cam1.jpg" crc="4246456371" seo="true" ref="sécurités-et-surveillance"/>
+    <file name="cam2.jpg" crc="3923295425" seo="true" ref="sécurités-et-surveillance"/>
+    <file name="pc-video-surveillance-dos.jpg" crc="3859357374" seo="true" ref="sécurités-et-surveillance"/>
+    <file name="best-domotique-maison-intelligente-lorraine-luxembourg.jpg" crc="154078230" seo="true" ref="presentation"/>
+  </folder>
+  <file name="index.html" crc="4098569164" seo="true" mt="1442198435561" redirect="true"/>
+  <file name="a-propos.html" crc="3903836717" seo="true" mt="1442198435561" redirect="true"/>
+  <file name="nos-solutions.html" crc="516234940" seo="true" mt="1442198435561" redirect="true"/>
+  <file name="domotique.html" crc="216230726" seo="true" mt="1442199017696" redirect="true"/>
+  <file name="nos-partenaires.html" crc="443324294" seo="true" mt="1442198435561" redirect="true"/>
+  <file name="nos-références.html" crc="4058497920" seo="true" mt="1442198435561" redirect="true"/>
+  <file name="contact.html" crc="355382600" seo="true" mt="1442198435561" redirect="true"/>
+  <file name="télécoms.html" crc="390886051" seo="true" mt="1442198435561" redirect="true"/>
+  <file name="réseaux-d-entreprise.html" crc="342097761" seo="true" mt="1442198435561" redirect="true"/>
+  <file name="audiovisuel.html" crc="294735424" seo="true" mt="1442198435561" redirect="true"/>
+  <file name="energie-rénouvable.html" crc="4274665215" seo="true" mt="1442198435561" redirect="true"/>
+  <file name="sécurités-et-surveillance.html" crc="47818552" seo="true" mt="1442198435561" redirect="true"/>
+  <file name="presentation.html" crc="96387874" seo="true" mt="1442198435561" redirect="true"/>
+  <file name="nos-produits.html" crc="4227683881" seo="true" mt="1442198435561" redirect="true"/>
+</manifest>
